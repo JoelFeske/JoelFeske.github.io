@@ -7,8 +7,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-#gem "jekyll", "~> 4.0.0" # THIS WAS DEFAULT BUT PERHAPS OUTDATED
-gem "jekyll", "~> 4.3.2"
+gem "jekyll", "~> 4.0.0"
 #gem "minima", "~> 2.5" #if using Minima as a Gem-based theme
 gem "ghostly", path: './ghostly'  
 gem 'html-proofer' #for link checking 
