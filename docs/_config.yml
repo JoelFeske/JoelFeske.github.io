@@ -56,7 +56,7 @@ commentbox_id: 5640936277147648-proj
 
 # Theme specifications
 # theme: ghostly # THIS IS CAUSING A BUILD ERROR ON GITHUB PAGES
-remote_theme: ./ghostly
+remote_theme: ./ghostly/ghostly.gemspec
 ghostly:
   date_format: "%B %-d, %Y" # Corresponds to e.g. January 1, 2020
   # see http://shopify.github.io/liquid/filters/date/ for customization
